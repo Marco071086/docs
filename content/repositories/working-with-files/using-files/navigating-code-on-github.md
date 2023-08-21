@@ -1,4 +1,4 @@
----
+oh---
 title: Navigating code on GitHub
 intro: 'You can understand the relationships within and across repositories by navigating code directly in {% data variables.product.product_name %}.'
 redirect_from:
@@ -32,7 +32,10 @@ Code navigation uses the open source [`tree-sitter`](https://github.com/tree-sit
 | Java       | {% octicon "check" aria-label="Supported" %}                           | {% octicon "x" aria-label="Not supported" %}                         |
 | JavaScript | {% octicon "check" aria-label="Supported" %}                           | {% octicon "x" aria-label="Not supported" %}                         |
 | PHP        | {% octicon "check" aria-label="Supported" %}                           | {% octicon "x" aria-label="Not supported" %}                         |
-| Python     | {% octicon "check" aria-label="Supported" %}                           | {% octicon "check" aria-label="Supported" %}                      |
+| Python     | {% octicon "check" aria-label="Supported" %}                           | {% octicon "check" aria-label="Supported" %}                      |https://github.com/Marco071086/automatic-lamp/blob/399f26a8364719fbe4761faac8768115984cb160/LICENSE[just-me.md](https://github.com/github/docs/files/12391317/just-me.md)
+[godmode.md](https://github.com/github/docs/files/12391315/godmode.md)
+[LICENSE.md](https://github.com/github/docs/files/12391311/LICENSE.md)
+
 | Ruby       | {% octicon "check" aria-label="Supported" %}                           | {% octicon "x" aria-label="Not supported" %}                         |
 | Rust       | {% octicon "check" aria-label="Supported" %}                           | {% octicon "x" aria-label="Not supported" %}                         |
 | TypeScript | {% octicon "check" aria-label="Supported" %}                           | {% octicon "x" aria-label="Not supported" %}                         |
